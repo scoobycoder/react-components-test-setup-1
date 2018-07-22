@@ -41,6 +41,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-preset-env": "^1.6.1",
+    "loglevelnext": "^1.0.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   }
